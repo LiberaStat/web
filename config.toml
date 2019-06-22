@@ -21,7 +21,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "LiberaStat"
 
 [params]
-    author = "統計解析と機械学習のフリーランスデータサイエンティスト"
+    author = "統計解析/機械学習のフリーランスデータサイエンティスト"
     description = "Bayesian Statistical Modeling and Machine Learning"
     keywords = "Bayesian Statistics, Machine Learning, Data Science"
     info = "Data Science for Smile"
