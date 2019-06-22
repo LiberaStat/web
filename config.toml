@@ -18,7 +18,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "LiberaStat"
 
 [params]
     author = "統計解析と機械学習のフリーランスデータサイエンティスト"
